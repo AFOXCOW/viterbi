@@ -1,0 +1,4 @@
+function distance=metric(inputx,compx)
+    %¶þ½øÖÆ
+    distance=rem(inputx+compx,2);
+end
